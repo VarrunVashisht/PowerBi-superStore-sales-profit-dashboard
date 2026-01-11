@@ -43,9 +43,9 @@ The dashboard provides clear insights into **sales, profit, customer segments, c
 Below is a preview of the Power BI dashboard (exported from Power BI as PDF):
 
 ```markdown
-![Super Store Dashboard Preview](dashboard.png)
-````
+[superStore_report.pdf](https://github.com/user-attachments/files/24547683/superStore_report.pdf)
 
+````
 ---
 
 ## 📂 Repository Structure
