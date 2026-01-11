@@ -1,9 +1,3 @@
-Here’s a **simple, clean, and beginner-friendly README.md** you can directly use in your GitHub repository for your **Power BI dashboard project**.
-I’ve written it so recruiters and viewers can quickly understand your work, and it includes a section to **display the attached PDF as an image (dashboard preview)**.
-
----
-
-````markdown
 # 📊 Super Store Power BI Dashboard
 
 ## 📌 Project Overview
@@ -48,14 +42,6 @@ The dashboard provides clear insights into **sales, profit, customer segments, c
 ## 🖼 Dashboard Preview
 Below is a preview of the Power BI dashboard (exported from Power BI as PDF):
 
-> 📌 **Note:** GitHub does not directly render PDFs as images.  
-> To display this properly:
-> 1. Open the PDF
-> 2. Take a screenshot of the dashboard
-> 3. Save it as `dashboard.png`
-> 4. Place it inside the repository
-> 5. Update the image link below
-
 ```markdown
 ![Super Store Dashboard Preview](dashboard.png)
 ````
@@ -89,8 +75,4 @@ If you have any feedback or suggestions, feel free to connect with me!
 **Author:** *Varrun Vashisht*
 **Role:** Data Analyst | Power BI Developer
 
-```
-
-
-Just tell me 👍
 ```
